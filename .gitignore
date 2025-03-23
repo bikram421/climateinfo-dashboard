@@ -1,0 +1,5 @@
+# Ignore build and IDE-specific files
+target/
+.settings/
+.classpath
+.project
